@@ -1,0 +1,40 @@
+# Arquivos de ambiente
+.env
+.env.*
+
+# Diretórios e arquivos Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+*.spec
+
+# Dependências e ambientes
+venv/
+.venv/
+env/
+ENV/
+node_modules/
+
+# Testes e relatórios
+htmlcov/
+coverage.xml
+*.cover
+*.out
+*.tmp
+
+# Banco de dados local
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# IDEs e editores
+.idea/
+.vscode/
+
+/build
+/dist
